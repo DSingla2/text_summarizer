@@ -3,4 +3,5 @@ transformers[sentencepiece]
 datasets
 evaluate
 torch
+transformers
 
