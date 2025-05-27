@@ -6,13 +6,11 @@ A simple web application that summarizes long paragraphs into concise summaries 
 3. Interactive web interface built with Streamlit.
 ## 🛠️ Installation
 1. Clone the repository
-2. Create and activate a virtual environment (optional but recommended):
+2. Create and activate a virtual environment (optional but recommended).
+   
 ## 💻 Usage
 Run the Streamlit app
 
 https://dsingla2-text-summarizer-text-summarization-e4uwpw.streamlit.app/
 
-
-## 🤝 Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
