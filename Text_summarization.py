@@ -1,4 +1,6 @@
 import streamlit as st
+import torch
+torch.classes.__path__ = []
 from transformers import pipeline
 st.title("Text_Summarizer")
 @st.cache_resource
