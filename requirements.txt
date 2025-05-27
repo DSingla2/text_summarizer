@@ -1,4 +1,6 @@
 streamlit
-transformers
+transformers[sentencepiece]
+datasets
+evaluate
 torch
-sentencepiece
+
